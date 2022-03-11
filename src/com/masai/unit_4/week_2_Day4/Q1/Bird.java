@@ -1,4 +1,4 @@
-package com.masai;
+package com.masai.unit_4.week_2_Day4.Q1;
 
 //save by A.java
 
@@ -6,7 +6,8 @@ class Main{
     public static void main(String[] args) {
         Bird b1= new parrot();
         b1.fly();
-//        b1.(Bird)sing();
+        parrot m1=(parrot)b1;
+        m1.sing();
     }
 }
 public abstract class Bird {
