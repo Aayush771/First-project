@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void methodIncrement(int a,int b,int c){
-        for(int i=a;i<b;i=i+c){
+        for(int i=a;i<=b;i=i+c){
             System.out.println(i);
         }
     }
@@ -14,11 +14,12 @@ public class Main {
         int start=SC.nextInt();
         int end=SC.nextInt();
         int inc=SC.nextInt();
-       if(end>start){
+       if(start>end){
            System.out.println("Stirng error");
        }
        else {
            methodIncrement(start, end, inc);
        }
+
     }
 }
