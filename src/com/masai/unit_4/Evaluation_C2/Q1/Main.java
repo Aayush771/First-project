@@ -1,4 +1,4 @@
-package com.masai.unit_4.Evaluation_C4.Q1;
+package com.masai.unit_4.Evaluation_C2.Q1;
 
 public class Main {
     public static void main(String[] args) {

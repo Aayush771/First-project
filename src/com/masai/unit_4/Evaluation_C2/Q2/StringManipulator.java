@@ -1,4 +1,4 @@
-package com.masai.unit_4.Evaluation_C4.Q2;
+package com.masai.unit_4.Evaluation_C2.Q2;
 
 import java.util.Scanner;
 

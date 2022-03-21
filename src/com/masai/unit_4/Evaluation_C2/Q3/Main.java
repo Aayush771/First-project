@@ -1,6 +1,5 @@
-package com.masai.unit_4.Evaluation_C4.Q3;
+package com.masai.unit_4.Evaluation_C2.Q3;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
